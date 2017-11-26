@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "stormydayplatformer.codingninja.edu.mit.scratch"
+        id          = "pixelgamemaking.dodge.the.spikes"
         versionCode = "10" 
         version     = "1.0.0" >
 
     <!-- versionCode is optional and Android only -->
 
-        <name>Stormy Day</name>
+        <name>Dodge The Spikes</name>
 
     <description>
-        A platformer game themed on a stormy day.
+        In this game, you have to dodge the spikes that come down the screen.
     </description>
 
-    <author href="http://scratch.mit.edu/users/CodingNinja26" email="email@email.com">
-        CodingNinja26
+    <author href="https://pixelgamemaking.com/" email="email@email.com">
+        PixelGameMaking
     </author>
 
 </widget>
